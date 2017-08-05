@@ -1,6 +1,8 @@
 {
   "db": {
     "name": "db",
-    "connector": "memory"
+    "connector": "mongodb",
+    "url": "mongodb://localhost"
   }
 }
+
